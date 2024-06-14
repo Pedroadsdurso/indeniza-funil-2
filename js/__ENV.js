@@ -1,0 +1,1 @@
+window.__ENV = {"NEXT_PUBLIC_SMTP_FROM":"marciotblk@gmail.com","NEXT_PUBLIC_VIEWER_URL":"https://chat.oficialatendimento.org"};
